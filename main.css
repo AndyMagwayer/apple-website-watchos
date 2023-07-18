@@ -1,0 +1,407 @@
+/* -
+-*-~*~-*-*-~*~-*-*-~*~* |
+●▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬●
+Made by ~
+AndyMagwayer 
+앤디 마그웨이어
+●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+──────▄▀▄─────▄▀▄
+─────▄█░░▀▀▀▀▀░░█▄
+─▄▄──█░░░░░░░░░░░█──▄▄
+█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
+-*-~*~-*-*-~*~-*-*-~*~* |
+- */
+
+body {
+    color: white;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+#header {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    padding: .7%;
+    float: right;
+    font-size: medium;
+}
+
+li a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 12px 0px 12px 0px;
+    text-decoration: underline;
+}
+
+#main-img {
+    text-align: center;
+    transform: translateY(10%);
+}
+
+#m-img {
+    max-width: 100%;
+    height: auto;
+    padding-left: 23%;
+}
+
+.intro {
+    text-align: center;
+    margin-top: 8%;
+}
+
+#appiwatch {
+    width: 30px;
+    height: 30px;
+    padding-left: 1%;
+    transform: translateY(20%);
+}
+
+.intro {
+    transform: translateY(-140%);
+}
+
+#water-container {
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.waterbox {
+    border: 20px solid black;
+    flex: 1;
+}
+
+.waterbox-1 {
+    flex: 1;
+    padding: 0% 5% 0% 5%;
+}
+
+.waterbox-2 {
+    flex: 3;
+    line-height: 1.5;
+    padding: 0% 0% 0% 5.5%;
+}
+
+#display-container {
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.display {
+    flex: 1;
+    border: 20px solid black;
+}
+
+.display-1 {
+    flex: 2;
+    padding-left: 10%;
+    line-height: 1.5;
+}
+
+.display-2 {
+    flex: 1;
+    padding: 0% 0% 0% 5%;
+}
+
+#process-container {
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.process {
+    flex: 1;
+    border: 10px solid black;
+    order: 3;
+}
+
+.process-1 {
+    flex: 1;
+    order: 1;
+}
+
+.process-2 {
+    flex: 1;
+    order: 2;
+    line-height: 1.5;
+}
+
+#launch {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#headlaunch {
+    font-size: x-large;
+    text-decoration: underline;
+    padding-top: 10%;
+}
+
+#video {
+    width: 100% !important;
+    height: auto !important;
+}
+
+#product-block {
+    text-align: center;
+    padding: 3%;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+#product-contain {
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+}
+
+.grey-note {
+    text-align: center;
+    line-height: 1.5;
+}
+
+button {
+    width: 40%;
+    height: 50px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: larger;
+    font-weight: 550;
+    background-color: black;
+    color: white;
+    border: 5px solid black;
+    transform: translateY(-25%);
+}
+
+button:hover {
+    width: 40%;
+    height: 50px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: larger;
+    font-weight: 550;
+    background-color: white;
+    color: black;
+    border: 5px solid black;
+}
+
+#threenine {
+    transform: translateY(-55%);
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+.nike-note {
+    text-align: center;
+    line-height: 1.5;
+}
+
+#three-nike {
+    transform: translateY(-55%);
+    text-decoration: underline;
+}
+
+#hermes-note {
+    text-align: center;
+    line-height: 1.5;
+}
+
+#forteen-nine {
+    transform: translateY(-55%);
+    padding-left: 30%;
+    text-decoration: underline;
+}
+
+#steel-case {
+    line-height: 1.5;
+}
+
+#hermes-button {
+    transform: translateY(-55%);
+    position: relative;
+    left: 27%;
+}
+
+#hero {
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+#email {
+    width: 40%;
+    height: 5px;
+    border-radius: 25px;
+    border: 2px solid white;
+    padding: 18px;
+    transform: translateY(-125%);
+    font-size: large;
+}
+
+#submit {
+    font-size: 25px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    height: 45px;
+    border-radius: 25px;
+    transform: translateY(-125%);
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+}
+
+#submit:hover {
+    color: black;
+    background-color: white;
+}
+
+#footer {
+    display: flex;
+}
+
+.foot1 {
+    flex: 1;
+}
+
+.foot1:hover {
+    color: red;
+}
+
+#footlink:hover {
+    background-color: white;
+    border-radius: 25px;
+    padding: 2px;
+}
+
+.foot2 {
+    flex: 1;
+    text-align: right;
+}
+
+.foot2:hover {
+    color: red;
+}
+
+#steel-case {
+    text-align: center;
+}
+
+
+/*For Mobile*/
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 600px) {
+    #m-img {
+        transform: translateY(25%);
+        position: relative;
+        right: 23%;
+    }
+    .intro {
+        text-align: center;
+        margin-top: 38%;
+    }
+    #header {
+        width: 100%;
+        height: 50px;
+        background-color: black;
+    }
+    li {
+        transform: translateX(-10%);
+        padding: 2%;
+        text-align: left;
+        font-size: medium;
+    }
+    #water-container {
+        display: block;
+    }
+    .waterbox-1 {
+        text-align: center;
+    }
+    #display-container {
+        display: block;
+    }
+    .display-2 {
+        text-align: center;
+    }
+    #process-container {
+        display: block;
+    }
+    #headlaunch {
+        font-size: large;
+    }
+    #video {
+        width: auto;
+        height: auto;
+    }
+    #product-block {
+        font-size: large;
+    }
+    #product-contain {
+        display: block;
+    }
+    #steel-case {
+        text-align: center;
+    }
+    #hero {
+        font-size: x-large;
+    }
+    #space {
+        transform: translateX(8%);
+    }
+    #nike {
+        transform: translateX(8%);
+    }
+    #hermes {
+        transform: translateX(8%);
+    }
+    #email {
+        width: 60%;
+        margin-top: 5%;
+    }
+    #submit {
+        font-size: 20px;
+        height: 35px;
+        border-radius: 25px;
+    }
+    #footer {
+        font-size: x-small;
+    }
+}
+
+
+/*For Tablet*/
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    #nav-bar {
+        transform: translateX(-8%);
+    }
+    #product-contain {
+        padding: 0;
+        flex-wrap: wrap;
+    }
+    #main-img {
+        transform: translateX(-11%);
+    }
+    .herm {
+        transform: translateX(75%);
+    }
+}
