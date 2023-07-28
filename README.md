@@ -5,7 +5,7 @@ This Website fully done by me, and i really recommend to do not coppy that becau
  Now you can read some information regarding apple company ,enjoy it, i think it will usefull for you ),
 
 
-![Apple Inc]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/AndyMagwayer/apple-website-watchos/blob/main/apple-img-1.jpg))
+![Apple Inc]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/AndyMagwayer/apple-website-watchos/blob/main/apple-img-1.jpg)
 
 Apple Inc. is an American multinational technology company headquartered in Cupertino, California. Apple is the world's largest technology company by revenue, with US$394.3 billion in 2022 revenue.[6] As of March 2023, Apple is the world's biggest company by market capitalization.[7] As of June 2022, Apple is the fourth-largest personal computer vendor by unit sales and the second-largest mobile phone manufacturer in the world. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Meta Platforms, and Microsoft.
 
