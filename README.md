@@ -16,7 +16,7 @@ As the market for personal computers expanded and evolved throughout the 1990s, 
 Apple became the first publicly traded U.S. company to be valued at over $1 trillion in August 2018, then at $2 trillion in August 2020, and at $3 trillion in January 2022. In June 2023, it was valued at just over $3 trillion.[8] The company receives criticism regarding the labor practices of its contractors, its environmental practices, and its business ethics, including anti-competitive practices and materials sourcing. Nevertheless, the company has a large following and enjoys a high level of brand loyalty. It has also been consistently ranked as one of the world's most valuable brands.
 
 
-![History](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![History](https://github.com/AndyMagwayer/apple-website-watchos/blob/main/apple-iimg-2.avif)
 
 ![History](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
