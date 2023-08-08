@@ -1,6 +1,11 @@
 # apple-website-watchos
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS.
 
+## Deploying:
+### https://apple-website-watchos-by-magamed.netlify.app/
+or you can see another one
+### https://apple-website-by-maga.netlify.app/
+
 This Website fully done by me, and i really recommend to do not coppy that because, everybody should have their opinion and it will help you to be succesfull and more interactive.
  Now you can read some information regarding apple company ,enjoy it, i think it will usefull for you ),
 
