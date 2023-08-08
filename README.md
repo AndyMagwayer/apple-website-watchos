@@ -18,7 +18,7 @@ Apple became the first publicly traded U.S. company to be valued at over $1 tril
 
 ![History](https://github.com/AndyMagwayer/apple-website-watchos/blob/main/apple-iimg-2.avif)
 
-![History](https://en.wikipedia.org/wiki/File:Apple_PenLite_prototype,_1992.jpg)
+
 
 
 
