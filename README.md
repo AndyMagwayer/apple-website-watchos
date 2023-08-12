@@ -44,7 +44,7 @@ The Apple II, also invented by Wozniak, was introduced on April 16, 1977, at the
 The Apple II was chosen to be the desktop platform for the first "killer application" of the business world: VisiCalc, a spreadsheet program released in 1979.[26] VisiCalc created a business market for the Apple II and gave home users an additional reason to buy an Apple II: compatibility with the office.[26] Before VisiCalc, Apple had been a distant third place competitor to Commodore and Tandy.[28] By the end of the 1970s, Apple had become the leading computer manufacturer in the United States.[29]
 
 On December 12, 1980, Apple (ticker symbol "AAPL") went public selling 4.6 million shares at $22 per share ($.10 per share when adjusting for stock splits as of September 3, 2022),[21] generating over $100 million, which was more capital than any IPO since Ford Motor Company in 1956.[30] By the end of the day, 300 millionaires were created, from a stock price of $29 per share[31] and a market cap of $1.778 billion.[30][31]
-# Test
+# Achieve
 
 
 
